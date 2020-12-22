@@ -52,11 +52,8 @@ Thumbs.db
 /3rdparty/yaml-cpp/Makefile
 
 # /db/
-/db/import
 
 # /conf/
-/conf/import
-/conf/msg_conf/import
 
 # /lib
 /lib
@@ -76,7 +73,6 @@ Thumbs.db
 /src/common/version.hpp
 
 # /src/custom/
-/src/custom
 
 # /src/login/
 /src/login/Makefile
