@@ -11,7 +11,7 @@ char_ip: 192.168.0.180
 // The map server listens on the interface with this IP address.
 // NOTE: This allows you to run multiple servers on multiple interfaces
 // while using the same ports for each server.
-bind_ip: 192.168.0.180
+//bind_ip: 192.168.0.180
 
 // Map Server IP
 // The IP address which clients will use to connect.
