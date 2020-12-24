@@ -2,12 +2,3 @@
 // NOTE: This allows you to run multiple servers on multiple interfaces
 // while using the same ports for each server.
 bind_ip: 192.168.0.180
-
-// Interval (in minutes) to execute a DNS/IP update. Disabled by default.
-// Enable it if your server uses a dynamic IP which changes with time.
-ip_sync_interval: 1
-
-// DNS Blacklist Blocking
-// If enabled, each incoming connection will be tested against the blacklists 
-// on the specified dnsbl_servers (comma-separated list)
-use_dnsbl: yes
